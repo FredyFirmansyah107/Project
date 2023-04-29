@@ -1,2 +1,2 @@
 # Project
-Project of Data Sience
+Project of Data Science
